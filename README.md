@@ -24,6 +24,7 @@
   <li> Yarn </li>
  </ul>
  
+ <h4> Configuração : </h4>
  <ol>
    <li>Para instalar as dependências : </li>
     <p> Yarn </p>
