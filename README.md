@@ -18,7 +18,7 @@
 
 <h4> Tecnologias : </h4>
 <ul> 
-  <li> Javascript </li>
+  <li> Typescript </li>
   <li> React </li>
   <li> Router DOM </li>
   <li> axios </li>
