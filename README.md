@@ -10,10 +10,23 @@
   <li> MOBILE - Desenvolvido com react Native, essa versão é de acesso exclusivo aos alunos , onde podem agendar suas aulas com professores contactando via whatsapp </li>
 </ul>
 
-<h4> Proffy - versão web </h4>
+<h2> Proffy - versão web </h2>
 
 <h3> Demonstração : </h3>
 
 ![example system](https://user-images.githubusercontent.com/50462308/93878207-11206200-fcb0-11ea-9da5-4b988d26bbd8.gif)
 
-
+<h4> Tecnologias </h4>
+<ul> 
+  <li> Typescript </li>
+  <li> React </li>
+  <li> axios </li>
+  <li> Yarn </li>
+ </ul>
+ 
+ <ol>
+   <li>Para instalar as dependências : </li>
+    <p> Yarn </p>
+   <li> Para iniciar a aplicação : </li>
+   <p> yarn start </p> 
+   </ol>
