@@ -16,7 +16,7 @@
 
 ![example system](https://user-images.githubusercontent.com/50462308/93878207-11206200-fcb0-11ea-9da5-4b988d26bbd8.gif)
 
-<h4> Tecnologias </h4>
+<h4> Tecnologias : </h4>
 <ul> 
   <li> Typescript </li>
   <li> React </li>
