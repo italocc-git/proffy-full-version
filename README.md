@@ -22,13 +22,18 @@
   <li> React </li>
   <li> Router DOM </li>
   <li> axios </li>
-  <li> Yarn </li>
+  <li> Yarn / NPM </li>
+ <li> NodeJS </li>
  </ul>
  
- <h4> Configuração : </h4>
+ <h4> Configuração (WEB e SERVER): </h4>
  <ol>
-   <li>Para instalar as dependências : </li>
-    <p> Yarn </p>
-   <li> Para iniciar a aplicação : </li>
-   <p> yarn start </p> 
-   </ol>
+ <li>Para instalar as dependências : <p> Yarn / npm install </p> </li> 
+   <li> Para iniciar a aplicação : 
+   <p>yarn start / npm start  
+    <i>(Para testar a aplicação, inicie o server primeiro.) </i> </p>
+ 
+ 
+ </li>
+    
+</ol>
