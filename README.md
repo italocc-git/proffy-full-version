@@ -24,6 +24,10 @@
   <li> axios </li>
   <li> Yarn / NPM </li>
  <li> NodeJS </li>
+ <li> SQLite </li>
+ <li> Knex.js </li>
+ <li> Cors </li>
+ <li> Express </li>
  </ul>
  
  <h4> Configuração (WEB e SERVER): </h4>
