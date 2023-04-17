@@ -1,22 +1,22 @@
 ﻿# proffy
  <p> Full Version (web/mobile) </p>
 <h3>
-  Sobre : </h3>
+  About the Project : </h3>
   
-<p> Proffy é uma aplicação responsável por auxiliar alunos no agendamento de aulas com professores de acordo com a disponibilidade de horário.  </p>
-<p> Possui duas versões </p>
+<p> Proffy is an application responsible for assisting students in scheduling classes with teachers according to time availability.  </p>
+<p> It has two versions </p>
 <ul>
-  <li> WEB - Desenvolvido com reactJS , essa versão permite o cadastramento de aulas dos professores e o agendamento de aulas dos alunos.</li>
-  <li> MOBILE - Desenvolvido com react Native, essa versão é de acesso exclusivo aos alunos , onde podem agendar suas aulas com professores contactando via whatsapp </li>
+  <li> WEB - Developed with reactJS , this version allows teachers to register classes and students to schedule classes.</li>
+  <li> MOBILE - Developed with react Native, this version is exclusively accessible to students, where they can schedule their classes with teachers by contacting via whatsapp</li>
 </ul>
 
-<h2> Proffy - versão web </h2>
+<h2> Proffy - web version </h2>
 
-<h3> Demonstração : </h3>
+<h3> Demonstration : </h3>
 
 ![example system](https://user-images.githubusercontent.com/50462308/93878207-11206200-fcb0-11ea-9da5-4b988d26bbd8.gif)
 
-<h4> Tecnologias : </h4>
+<h4> Technologies : </h4>
 <ul> 
   <li> Typescript </li>
   <li> React </li>
@@ -30,14 +30,12 @@
  <li> Express </li>
  </ul>
  
- <h4> Configuração (WEB e SERVER): </h4>
+ <h4> Configuration (WEB e SERVER): </h4>
  <ol>
- <li>Para instalar as dependências : <p> Yarn / npm install </p> </li> 
-   <li> Para iniciar a aplicação : 
-   <p>yarn start / npm start  
-    <i>(Para testar a aplicação, inicie o server primeiro.) </i> </p>
- 
- 
- </li>
+ <li>To install dependencies you must have installed: <p> Nodejs and npm  </p> </li> 
+   <li> To run the server Node </li>
+   <p> npm run server </p>
+   <li> To run the React application : </li>
+   <p> npm run start  
     
 </ol>
